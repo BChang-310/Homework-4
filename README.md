@@ -1,28 +1,16 @@
-# PGE310 Fall 2021 Homework 3
+# PGE310 Fall 2021 Homework 4
 
-This homework is divided into 2 parts: 
+This homework is divided into 5 problems: 
 
-  - In Problem 1 you will practice plotting while using a fun linear algebra
-        application, the rotation matrix.
-  - Problem 2 will help you practice indexing and slicing NumPy arrays in
-        1D, 2D, and 3D.
+  - Problem 1 is designed to help you practice logic flow with if, elif, and else statments.
+  - Problem 2 will help you practice for loops with a fun code deciphering challenge.
+  - Problem 3 covers a common type of problem in science and engineering called a parameter sweep. This can be done nicely with a for loop!
+  - Problem 4 will give you practice with while loops in the context of a problem with prime numbers
+  - Problem 5 will cover how to use for loops to code different types of summation and product formulas.
 
-For assignment instructions, please see [HW3_Instructions.pdf](HW3_Instructions.pdf)
 
-Please submit this assignment as a Python file (.py) on Github classroom.
-For more comprehensive instructions on how to test and submit your code,
-refer to the posted instructions document on Canvas.
+### New for this homework:
+**Please submit this assignment as a Jupyter Notebook file (.ipynb) on Github classroom.** 
+Don't forget that you can still develop your code in Spyder. If you do use Spyder, copy and paste the required parts of your finished code from Spyder into the correct cells of the Jupyter Notebook template. We want you to practice submitting your code in a presentable format! 
 
-Indexing and slicing can be tricky, even for seasoned Python pros, but it's one
-of the most useful skills to learn! And as always, we're here to help!
-
-**Important note:**
-We are changing how we provide instant feedback on your code:
-
- - Instead of uploading to GitHub and waiting to check the unit test results, the new feedback system is built in to each problem.
- - You will still upload your homework to GitHub classroom to turn it in. There just will not be a unit test for it: no red X or green checkmark will appear.
-
-Please refer to [these instructions](Instant_Feedback_Instructions.pdf) for further details.
-
-Feel free to contact Dr. P, Alex, Bernie, or Ziming with problems, questions, or comments.
-
+Logic flow and loops are where many interesting programming challenges can be solved and automated!
